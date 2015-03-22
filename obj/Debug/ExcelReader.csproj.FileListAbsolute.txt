@@ -1,0 +1,7 @@
+c:\users\gabe\documents\visual studio 2013\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+c:\users\gabe\documents\visual studio 2013\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+c:\users\gabe\documents\visual studio 2013\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+c:\users\gabe\documents\visual studio 2013\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csprojResolveAssemblyReference.cache
+c:\users\gabe\documents\visual studio 2013\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+c:\users\gabe\documents\visual studio 2013\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
+c:\users\gabe\documents\visual studio 2013\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelBook.xlsx
